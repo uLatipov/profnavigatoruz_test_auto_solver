@@ -1,0 +1,1 @@
+# profnavigatoruz_test_auto_solver
